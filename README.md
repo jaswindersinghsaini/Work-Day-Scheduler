@@ -25,4 +25,4 @@ Simply click on the link below and you will be taken directly to the Scheduler!
 ### Image: 
 When you click on the link, you should see a webpage similar to the image below.
 
-<img src="../Assets/Work-Day-Scheduler.gif" alt="Work Day Scheduler Image">
+<img src="Assets/Work-Day-Scheduler.gif" alt="Work Day Scheduler Image">
