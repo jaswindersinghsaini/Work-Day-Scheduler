@@ -3,6 +3,9 @@ body {
   font-size: 16px;
 }
 
+.header:hover{
+background-color: #83b1b4;
+}
 textarea {
   background: transparent;
   border: none;
@@ -14,6 +17,9 @@ textarea {
 
 .description {
   white-space: pre-wrap;
+}
+.description:hover{
+  background-color: rgb(157, 207, 205);
 }
 
 .time-block {
