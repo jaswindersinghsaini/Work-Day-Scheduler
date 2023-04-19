@@ -19,8 +19,7 @@ Simply click on the link below and you will be taken directly to the Scheduler!
 
 ### Link: 
 
-
-
+https://github.com/jaswindersinghsaini/Work-Day-Scheduler/
 
 ### Image: 
 When you click on the link, you should see a webpage similar to the image below.
