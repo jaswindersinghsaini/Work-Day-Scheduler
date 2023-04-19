@@ -4,14 +4,14 @@
 Created a schedule for workday hours (9 AM & 5pm) that allows users to enter a task in a time slot. Time slots in the past are listed in gray, the current time slot is listed in red, and future time slots are listed in green. This makes it easy for users to know what times they are available and task deadlines are approaching and prioritize them.
 
 ### Built With
-HTML
-CSS
-JavaScript
-BootStrap
-jQuery
-Day.js
-FontAwesome
-Google Fonts
+HTML <br>
+CSS  <br>
+JavaScript  <br>
+BootStrap  <br>
+jQuery  <br>
+Day.js  <br>
+FontAwesome <br>
+Google Fonts <br>
 
 ### Installation
 There is no installation required for this. 
